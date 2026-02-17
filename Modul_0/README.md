@@ -99,7 +99,7 @@ Keď je príkaz `"a"`:
    - `text = text_in`
    - `priority = p`
    - `has_task = True`
-   - vypíš: „✅ Úloha uložená.“
+   - vypíš: „Úloha uložená.“
 
 ---
 
