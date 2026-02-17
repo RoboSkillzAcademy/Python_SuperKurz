@@ -22,7 +22,7 @@ Aplikácia pracuje len s **jednou** úlohou uloženou v premenných:
 
 ---
 
-## 🧩 Obmedzenia (dôležité!)
+## Obmedzenia (dôležité!)
 - ❌ Nepoužívaj **listy**, sety, slovníky, tuple…
 - ❌ Nepoužívaj **funkcie** (`def`)
 - ❌ Nepoužívaj **try/except**
