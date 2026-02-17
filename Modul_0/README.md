@@ -1,4 +1,4 @@
-# StudyBuddy v1 (Modul 0) — README pre študenta
+# StudyBuddy v1 (Modul 0)
 
 Tvoj cieľ je naprogramovať **konzolovú mini-appku StudyBuddy**, ktorá vie pracovať iba s **jednou úlohou**.  
 Budeš používať iba: **premenné, input/output, casting (isdigit + int), if/elif/else, while, string úpravy (strip/lower/upper)**.
