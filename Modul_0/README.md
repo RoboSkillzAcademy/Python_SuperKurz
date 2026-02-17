@@ -109,10 +109,10 @@ Keď je príkaz `"v"`:
 - ak `has_task == False`:
   - vypíš: „Nemáš uloženú žiadnu úlohu.“
 - inak vypíš úlohu v peknom formáte, napr.:
---- Aktuálna úloha ---
+`--- Aktuálna úloha ---
 Predmet: MAT
 Priorita: 4/5
-Text: opakovanie integrály
+Text: opakovanie integrály`
 
 ---
 
