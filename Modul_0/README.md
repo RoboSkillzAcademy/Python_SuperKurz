@@ -129,7 +129,7 @@ Keď je príkaz `"c"`:
     - `subject = ""`
     - `priority = 0`
     - `text = ""`
-  - vypíš: „🧹 Úloha vymazaná.“
+  - vypíš: „Úloha vymazaná.“
 
 ---
 
