@@ -6,8 +6,11 @@ budget_str = input("Koľko € máš? (napr. 3): ").strip()
 mood_raw = input("Chuť? (SLADKE/SLANE): ")
 
 """
-TO-DO 1
-Normalizuj mood: odstráň okrajové medzery a zmeň na veľké písmená
+TODO 1
+Normalizuj mood: 
+- odstráň okrajové medzery
+- zmeň na veľké písmená
+
 mood = ...
 """
 
@@ -17,7 +20,7 @@ minutes = 10
 budget = 2
 
 """
-TO-DO 2:
+TODO 2:
 Bezpečný casting:
 - if minutes_str je číslo → minutes = minutes_str typu Integer
 - if budget_str je číslo → budget = budget_str typu Integer
@@ -32,14 +35,14 @@ if ...:
 print("\nDEBUG:", "minutes =", minutes, "| budget =", budget, "| mood =", mood)
 
 """
-# TO-DO 3:
-# Rozhodovanie (nastav premennú recommendation):
-# - if minutes <= 5 → "banán alebo tyčinka"
-# - elif budget <= 2 → "rožok + šunka"
-# - else:
-#     - if mood == "SLADKE" → "koláč + čaj"
-#     - elif mood == "SLANE" → "sendvič"
-#     - else → "voda"
+TODO 3:
+Rozhodovanie (nastav premennú recommendation):
+- if minutes <= 5 → "banán alebo tyčinka"
+- elif budget <= 2 → "rožok + šunka"
+- else:
+    - if mood == "SLADKE" → "koláč + čaj"
+    - elif mood == "SLANE" → "sendvič"
+    - else → "voda"
 """
 
 recommendation = "TODO"
@@ -47,9 +50,9 @@ recommendation = "TODO"
 print("\nOdporúčanie:", recommendation)
 
 """
-# Bonus: 
-# if budget >= 5 vypíš "Môžeš si dať aj niečo extra"
-# 
-# if ...:
-#     ...
+Bonus: 
+if budget >= 5 vypíš "Môžeš si dať aj niečo extra"
+
+if ...:
+    ...
 """
