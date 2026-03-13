@@ -1,24 +1,4 @@
-# StudyBuddy v2 — README pre študenta
-
-## Čo je StudyBuddy v2
-
-StudyBuddy v2 je rozšírenie verzie v1. Program stále pracuje s jednou úlohou uloženou v premenných (bez listov), ale pribudli dve dôležité novinky:
-
-- validácia priority pomocou `while` cyklu — program sa pýta opakovane, kým nedostane platné číslo 1 až 5
-- vyhľadávanie pomocou `while` cyklu — môžeš hľadať podľa predmetu alebo podľa slova v texte úlohy
-
-Tieto dve novinky sú presne tým, čo sa učíme v Module 1: cykly `while` a `for`, operátor `in`, normalizácia vstupu cez `.strip()`, `.lower()`, `.upper()`.
-
----
-
-## Obmedzenia — rovnaké ako v1
-
-- Nepoužívaj listy, sety, slovníky, tuple kolekcie.
-- Nepoužívaj funkcie (`def`).
-- Nepoužívaj `try/except`.
-- Casting priority rieš cez `isdigit()` a kontrolu rozsahu.
-
----
+# StudyBuddy v2
 
 ## Príkazy programu
 
