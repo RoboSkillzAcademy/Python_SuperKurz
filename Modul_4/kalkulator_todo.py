@@ -9,7 +9,6 @@ def scitaj(a, b):
     """
     pass
 
-
 def odcitaj(a, b):
     """
     Vráti rozdiel dvoch čísel (a - b).
@@ -80,7 +79,7 @@ def vypocitaj(a, b, operacia):
     Príklad: vypocitaj(10, 5, '+') → 15
     Príklad: vypocitaj(10, 5, '%') → 'Neznáma operácia: %'
 
-    TO-DO 6
+    TODO 6
     Použi if/elif/else.
     Každá vetva zavolá jednu z matematických funkcií (scitaj, odcitaj...).
     Funkcia NEVOLÁ print() -- len vracia hodnotu.
@@ -93,7 +92,7 @@ def vypocitaj(a, b, operacia):
 
 if __name__ == "__main__":
     """
-    TO-DO 7
+    TODO 7
     Spoj všetko dohromady.
 
     Program má:
@@ -124,7 +123,7 @@ def mocnina(zaklad, exponent=2):
     Príklad: mocnina(3)    → 9
     Príklad: mocnina(2, 8) → 256
 
-    BONUS TO-DO A
+    BONUS TODO A
     Doplň telo funkcie. Jeden riadok.
     """
     pass
@@ -139,7 +138,7 @@ def koren(x):
 
     Tip: odmocnina = x ** 0.5
 
-    BONUS TO-DO B
+    BONUS TODO B
     Doplň telo funkcie vrátane validácie.
     """
     pass
